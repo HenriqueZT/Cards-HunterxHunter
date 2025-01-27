@@ -1,5 +1,5 @@
 @media(max-width:768px) {
-    /*quando chegar em 768 px ou menos, acontece isso*/
+
     body {
         background-position: center;
         padding: 0 15px;
@@ -39,7 +39,7 @@
 
 @media (max-width: 375px) {
     body {
-        justify-content: start;/*posiciona tudo para cima*/
+        justify-content: start;
         padding-top: 10px;
         gap: 10px;
     }
